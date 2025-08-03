@@ -1,0 +1,2 @@
+08/03/2025-18:05:12.913742  [**] [1:2022973:1] ET INFO Possible Kali Linux hostname in DHCP Request Packet [**] [Classification: Potential Corporate Privacy Violation] [Priority: 1] {UDP} 192.168.191.112:68 -> 192.168.191.60:67
+08/03/2025-18:07:49.403236  [**] [1:2100498:7] GPL ATTACK_RESPONSE id check returned root [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 2001:8d8:100f::208:80 -> 2409:40f4:1b:9f5e:5f0e:3702:a2d5:5779:43844
